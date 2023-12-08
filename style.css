@@ -26,6 +26,11 @@ header {
   white-space: pre-wrap;
 }
 
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .time-block {
   text-align: center;
   border-radius: 15px;
