@@ -12,6 +12,6 @@ In order to run this download the repo and open the index.html file and choose w
 
 To enter any events that you may have in your day and then pressing the save button so even if you refresh the page the events stay on the planner
 
-![alt text](/images/screenshot(2).png)
+![alt text](/images/screenshot.png)
 
 ## Credits
